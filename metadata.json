@@ -1,0 +1,24 @@
+{
+  "level_categories": {
+    "clear": "Clear",
+    "arb": "Berries",
+    "h": "Heart",
+    "c": "Cassette",
+    "hc": "Heart + Cassette",
+    "fc": "Full Clear"
+  },
+  "full_game_categories": {
+    "any": "Any%",
+    "arb": "All Red Berries",
+    "te": "True Ending",
+    "cassettes": "All Cassettes",
+    "bny": "Bny%",
+    "hearts": "All Hearts",
+    "100": "100%",
+    "chapters": "All Chapters",
+    "a-sides": "All A Sides",
+    "b-sides": "All B Sides",
+    "c-sides": "All C Sides"
+  },
+  "difficulties": ["Beginner", "Easy", "Intermediate", "Hard", "Very hard", "Master"]
+}
