@@ -5,7 +5,10 @@
     "h": "Heart",
     "c": "Cassette",
     "hc": "Heart + Cassette",
-    "fc": "Full Clear"
+    "fc": "Full Clear",
+    "dts": "Farewell DTS",
+    "dashless": "Dashless",
+    "grabless": "Grabless"
   },
   "full_game_categories": {
     "any": "Any%",
