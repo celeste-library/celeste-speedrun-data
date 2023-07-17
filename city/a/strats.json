@@ -44,7 +44,6 @@
     "name": "city-a-1 wallbounce exit",
     "description": "Dash up and wallbounce out of the room.",
     "rooms": [
-      "city-a-2",
       "city-a-1"
     ],
     "start": "city-a-1 top-right",
@@ -57,7 +56,6 @@
     "name": "city-a-1 climbjump exit",
     "description": "Dash up and climbjump into the next room.",
     "rooms": [
-      "city-a-2",
       "city-a-1"
     ],
     "start": "city-a-1 top-right",
@@ -94,8 +92,7 @@
     "name": "city-a-2 single wallbounce exit",
     "description": "Bunnyhop to the right and dash up to get a max height wallbounce on the right wall.",
     "rooms": [
-      "city-a-2",
-      "city-a-3"
+      "city-a-2"
     ],
     "start": "city-a-2 right side",
     "end": "city-a-3 left side entry",
@@ -107,8 +104,7 @@
     "name": "city-a-2 wallbounce wallkick exit",
     "description": "Bunnyhop and dash up to get a wallbounce on the left wall then neutral jump back off the right wall to exit moving toward the left side.",
     "rooms": [
-      "city-a-2",
-      "city-a-3"
+      "city-a-2"
     ],
     "start": "city-a-2 right side",
     "end": "city-a-3 cornerboost setup entry",
@@ -120,8 +116,7 @@
     "name": "city-a-3 left wallbounce, hyper over top",
     "description": "Wallbounce off the large left wall, aiming to land on the platform as quickly as possible. Extended hyper towards the right, then from the air do an extended super off the rightmost platform. Dash up along the right wall to exit.",
     "rooms": [
-      "city-a-3",
-      "city-a-4"
+      "city-a-3"
     ],
     "start": "city-a-3",
     "end": "city-a-4 right up dash entry",
@@ -133,8 +128,7 @@
     "name": "city-a-3 left climbjump, wallbounce, hyper over top",
     "description": "Do a cornerboost off the lower bit of wall on the left, and buffer a dash up. Wallbounce off the large left wall using leniency pixels, aiming to land on the platform as quickly as possible. Extended hyper towards the right, then from the air do an extended super off the rightmost platform. Dash up along the right wall to exit.",
     "rooms": [
-      "city-a-3",
-      "city-a-4"
+      "city-a-3"
     ],
     "start": "city-a-3 cornerboost setup entry",
     "end": "city-a-4 right up dash entry",
@@ -144,8 +138,7 @@
     "name": "city-a-4 transition wallbounce, hyper up dash",
     "description": "Enter with a transition wallbounce, then do a wallbounce off the left wall right above the spikes. Extended hyper over the traffic block, then dash up as soon as you pass the right wall. Exit with a wallbounce.",
     "rooms": [
-      "city-a-4",
-      "city-a-3b"
+      "city-a-4"
     ],
     "start": "city-a-4 right up dash entry",
     "end": "city-a-3b entry",
@@ -182,8 +175,7 @@
     "name": "city-a-3b cornerkick exit",
     "description": "Dash up-right and cornerkick to exit.",
     "rooms": [
-      "city-a-3b",
-      "city-a-5"
+      "city-a-3b"
     ],
     "start": "city-a-3b top",
     "end": "city-a-5 climbjump entry",
@@ -208,7 +200,6 @@
     "description": "Move to the right and wallkick off the rightmost wall. This will line you up for an up dash along the left wall to exit the room, and a transition wallbounce start for the next room.",
     "notes": "Dashing up directly from the spring to wallbounce out will save frames on this screen, but will lose even more frames on the next screen compared with getting a transition wallbounce.",
     "rooms": [
-      "city-a-6",
       "city-a-5"
     ],
     "start": "city-a-5 spring",
@@ -281,7 +272,6 @@
     "description": "At the peak of your wallbounce (this should coincide with the first frame where the outline of the dash crystal is completely visible after Madeline collects it), demo right so you can demo hyper off the wooden platform. Right after you jump for the demo hyper, you can cornerboost off of the small hump in front of you which will give you some vertical height and horizontal speed, during which you should be holding jump (if you're unlucky, you won't get extra speed so the next part will not work). After the cornerboost, wait until you reach around the top left part of the coffee shop [img]1a_6a_cornerboost_ultra_cue.png[/img] and do a down right dash for a ultra, and slide towards the next room. (You'll be noticeably faster speed than when you did not get enough speed, or when you didn't get the speed on the cornerboost).",
     "notes": "You do not need that much speed for the next room, however having a lot of speed will save a bit of time in this and the next room.",
     "rooms": [
-      "city-a-6b",
       "city-a-6a"
     ],
     "start": "city-a-6a dash crystal",
@@ -294,8 +284,8 @@
     "name": "city-a-6a top route start",
     "description": "At the peak of your wallbounce (this should coincide with the first frame where the outline of the dash crystal is completely visible after Madeline collects it), demo right so you can demo hyper off the wooden platform, then bunnyhop off the raised section of ground. Once you reach the top-right corner of the coffee shop in the background, dash up-right. [img]1a_6a_coffee_shop_upright_cue.png[/img]",
     "rooms": [
-      "city-a-6b",
-      "city-a-6a"
+      "city-a-6a",
+      "city-a-6b"
     ],
     "start": "city-a-6a dash crystal",
     "end": "city-a-6b top route up-right",
@@ -309,7 +299,6 @@
     "name": "city-a-6b bottom route",
     "description": "After sliding into the transition, buffer a jump and do a full height jump after the transition. This will give you the right amount of height for a right demo dash towards the traffic block, which lets you demo hyper off of the traffic block. After that, you want to aim toward the middle-left side of the vertical traffic block ahead (you could greed frames and land as early as possible). Dash down to cancel your momentum and move to the middle of the traffic block. You can do the next part in either of two ways: 1) Jump when the traffic block is coming to a stop, and dash up right to land on the top right platform, then super into the transition. 2) Jump when the traffic block is coming to a stop, the do a climb jump on the wall that you normally move past. The little dust that indicates where the climb jump happens should be a little bit below the mid point of the right wall. [img]1a_6b_blockboost_dust_cue.png[/img] Keep holding jump and right while doing this. This double block boost should give you a perfect height to do either a super on the top platform or a cornerboost on the corner of that platform. Keep holding right and jump, and both the super and cornerboost will send you toward the transition with a bit of height and speed.",
     "rooms": [
-      "city-a-6c",
       "city-a-6b"
     ],
     "start": "city-a-6b ultra entry",
@@ -384,8 +373,8 @@
     "name": "city-a-6c top route",
     "description": "Continue holding jump and down-right through the transition. Let go of jump when you are directly above the first spring. When you reach the bottom of the wall, you should be corner corrected downward, which will allow you to demo right directly into the second spring. If you released jump too late, you will slam into the wall and lose all your speed. [img]1a_6c_failed_held_jump.png[/img] If you released down too early, you will also hit into the wall, but should see a cloud of dust around Madeline. [img]1a_6c_failed_released_down_1.png[/img] If you release down later than this, but too early before your demo, you see the cloud of dust around the lower wall. [img]1a_6c_failed_released_down_2.png[/img] The cloud of dust should not appear if you get corner corrected properly. [img]1a_6c_corner_correct.png[/img]",
     "rooms": [
-      "city-a-6c",
-      "city-a-6b"
+      "city-a-6b",
+      "city-a-6c"
     ],
     "start": "city-a-6b ultra end",
     "end": "city-a-6c spring 2",
@@ -397,7 +386,6 @@
     "name": "city-a-6c super exit",
     "description": "Bounce off the spring then try to time your up-right dash early enough to land quickly. Then jump, dash right and super, and dash up out of the room.",
     "rooms": [
-      "city-a-7",
       "city-a-6c"
     ],
     "start": "city-a-6c spring 2",
@@ -409,7 +397,6 @@
     "description": "Do a wavedash, then when you are horizontally aligned with the pillar in the background, dash up-right. [img]1a_8_upright_cue.png[/img] This will land you on the left edge of the crumble platform. From the platform, do an extended super, then dash up to land at the end of the screen. Hyper into the next screen, releasing jump during the transition.",
     "notes": "The further right you enter the room, the shorter your initial wavedash can be, thus the quicker you will be able to land from your up-right dash. It is possible to do too short of a wavedash where you will always die to the spikes when you reach the desired horizontal position.",
     "rooms": [
-      "city-a-8b",
       "city-a-8"
     ],
     "start": "city-a-8 entry",
@@ -422,7 +409,6 @@
     "name": "city-a-8b demohyper",
     "description": "Do a short demohyper off the first traffic block, landing on the second block. As the traffic blocks moves up, you can adjust your position to line yourself up with the left wall above. Use the traffic block to launch up, then dash up along the left wall into the transition.",
     "rooms": [
-      "city-a-9",
       "city-a-8b"
     ],
     "start": "city-a-8b entry",
@@ -435,7 +421,6 @@
     "name": "city-a-8b demohyper down-right",
     "description": "Do a demohyper off the first traffic block, then dash down-right to the second traffic block, followed by a down dash to avoid sliding off. Use the traffic block to launch up, then dash up along the left wall into the transition.",
     "rooms": [
-      "city-a-9",
       "city-a-8b"
     ],
     "start": "city-a-8b entry",
@@ -472,8 +457,8 @@
     "name": "city-a-9 two hypers exit",
     "description": "Do two hypers, letting go of down after the second one, and avoid holding jump through the transition. This will line you up to be able to dash up to the platform above.",
     "rooms": [
-      "city-a-9b",
-      "city-a-9"
+      "city-a-9",
+      "city-a-9b"
     ],
     "start": "city-a-9 top",
     "end": "city-a-9b up dash",
@@ -485,8 +470,8 @@
     "name": "city-a-9 grounded ultra exit",
     "description": "Do a short hyper landing on the right edge of the paint cans. [img]1a_9_paint_cans.png[/img] Dash down-right from here through the transition, then buffer a grounded ultra. This will line you up be able to dash up to the platform above.",
     "rooms": [
-      "city-a-9b",
-      "city-a-9"
+      "city-a-9",
+      "city-a-9b"
     ],
     "start": "city-a-9 top",
     "end": "city-a-9b up dash",
@@ -498,8 +483,7 @@
     "name": "city-a-9b up dash hyper bunnyhop",
     "description": "Dash up as soon as you can do so without bonking, then hold left until landing. Do a very short hyper then bunnyhop and hold jump, then up-right dash to reach the wall. Climbjump up through the transition.",
     "rooms": [
-      "city-a-9b",
-      "city-a-10a"
+      "city-a-9b"
     ],
     "start": "city-a-9b up dash",
     "end": "city-a-10a",
@@ -537,7 +521,6 @@
     "name": "city-a-10a wallbounce left exit",
     "description": "Dash up and buffer a wall bounce, holding jump.",
     "rooms": [
-      "city-a-11",
       "city-a-10a"
     ],
     "start": "city-a-10a left platform",
@@ -564,8 +547,7 @@
     "name": "city-a-11 hyper wavedash bunnyhop",
     "description": "Do an extended hyper to the left off the crumble platform, then do a short wavedash off the highest raised piece of ground. Bunnyhop off the right edge of the leftmost section of raised ground, then when you reach the left wall, dash up and wall bounce. If you are aligned with the background poster at the start of your dash, then you will want to wallbounce when you are vertically aligned with the third X from the top of the steel girder.",
     "rooms": [
-      "city-a-11",
-      "city-a-12"
+      "city-a-11"
     ],
     "start": "city-a-11 crumble",
     "end": "city-a-12 right entry",
@@ -596,8 +578,8 @@
     "name": "city-a-12 demohyper to spring exit",
     "description": "Jump and do a demohyper off the raised metal ground to the right. This will take you through the transition and to the spring on the next screen.",
     "rooms": [
-      "city-a-12a",
-      "city-a-12"
+      "city-a-12",
+      "city-a-12a"
     ],
     "start": "city-a-12 exit",
     "end": "city-a-12a block",
@@ -622,8 +604,7 @@
     "name": "city-a-12a climbjump exit",
     "description": "Once you land on the right side of the platform, dash up-left, then climbjump off the right corner exiting the screen.",
     "rooms": [
-      "city-a-12a",
-      "city-a-end"
+      "city-a-12a"
     ],
     "start": "city-a-12a platform",
     "end": "city-a-end climbjump entry",
@@ -636,8 +617,7 @@
     "name": "city-a-12a up dash wallbounce exit",
     "description": "Hold left after the cornerkick so you land on the left side of the platform. Dash up, then wallbounce off the tile where the ceiling splits into two different heights. [img]1a_12a_up_wb.png[/img] This will take you through the transition.",
     "rooms": [
-      "city-a-12a",
-      "city-a-end"
+      "city-a-12a"
     ],
     "start": "city-a-12a platform",
     "end": "city-a-end entry",
