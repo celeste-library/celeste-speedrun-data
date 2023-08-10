@@ -23,5 +23,10 @@
     "b-sides": "All B Sides",
     "c-sides": "All C Sides"
   },
+  "level_categories_internal": {
+    "cheat": "Cheat Code",
+    "cr": "Cassette RTM",
+    "hcr": "Heart + Cassette RTM"
+  },
   "difficulties": ["Beginner", "Easy", "Intermediate", "Hard", "Very hard", "Master"]
 }
