@@ -10479,6 +10479,919 @@
     ]
   },
   {
+    "description": "#3a science for this i hadn't really seen (similar strat is done in a few ILs tho), hyper -> release jump through transition -> hold right entire time = guaranteed 1f window for updash\n\nif exactly 1 frame of hyper happens before transition, you have a 2f window to updash\nfor 2-5f of hyper before transition, it's a 1f window\n\nfor frames 1-3, the timing for the updash is consistent eg: from screen transition ending the updash occurs at the same frame for all 3 situations.  this makes it much easier to get muscle memory for but i'm not coping and calling it consistent or anything (overall consistency is about a coinflip for me).  for 4-5 it's delayed by 1 frame.\n\nmovement shown in vid works well for getting a super consistent 1-3f hyper through transition.  loses .1 - .2 over oshiro grounded ultra setup but has miles less variance and doesn't feel like utter bullshit",
+    "rooms": [
+      "resort-a-03-a",
+      "resort-a-05-a"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "amberlovesarchie",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/991614731762810930",
+        "timestamp": "2022-06-29T08:02:55.363000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/991614730777141289/ro2269_1.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell #event horizon \nCorner corrected right dash and buffered downright, right and down dashes setup the position. Demo, jump on the two first extension frames, buffer another demo and hold left. Saves ~1.1 over bino clip.",
+    "rooms": [
+      "farewell-a-f-06"
+    ],
+    "categories": [
+      "dts"
+    ],
+    "sources": [
+      {
+        "author": "Larrito",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/990962600760180796",
+        "timestamp": "2022-06-27T12:51:35.216000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/990962599107649536/bino_clip_room_demo.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#2a quick climbjump to get on the ground into a hyper bhop (has to be slightly delayed in order to not bonk the ceiling) saves a few frames, much easier to optimize \nThis can only be done if you exit the room on the left side to be in reach of the wall, so be careful (video shows 1 slow and 1 fast example)",
+    "rooms": [
+      "site-a-8"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Katriii",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/988846435464253510",
+        "timestamp": "2022-06-21T16:42:42.093000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/988846434507980860/Celeste_06-21-2022_18-34-59-908.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#2a two tips here that utilise the walls during room entries:\nSmall climbjump into the standard upleft demo, shortens the airtime, saves at least 2-3f, easier to optimize (video shows 2 slow and 2 fast examples)",
+    "rooms": [
+      "site-a-6"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Katriii",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/988845791550513192",
+        "timestamp": "2022-06-21T16:40:08.572000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/988845790443221032/Celeste_06-21-2022_18-34-12-765.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "you can ultra from the top with an ext hyper (you can also go neutral after the downright and only hold down to be slightly safer), this is not as bad as it looks (can be a mildly risky fullgame viable strat)\n#summit #7a #any% #2.5k #2000m #e-10",
+    "rooms": [
+      "summit-a-e-10"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "XMinty",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/987470235558883379",
+        "timestamp": "2022-06-17T21:34:10.467000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/987470234946510929/demo_4.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a Found this right dash to be slightly more consistent, easier to optimize and save .1ish (I'm bad at the upright strat tho) than the upright. Obv faster stuff exists but this is the worst room in the game",
+    "rooms": [
+      "resort-a-09-b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Gwonkee💙",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/987391367426768967",
+        "timestamp": "2022-06-17T16:20:46.839000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/987391366193635348/2022-06-17_09-18-47.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a Slightly slower than bhop (~.15) faster than both hcbs by I believe .2-.3\nHow it works:\nclimb jump entry\n**demo** hyper right (no demo makes the upright frame perfect)\ncb\nupright cb (5f to get a cb at all, depending on what extension frame you jumped on it's 3-5f for good cb)",
+    "rooms": [
+      "city-a-2"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Plex",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/987213609761407066",
+        "timestamp": "2022-06-17T04:34:26.109000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/987213606011678760/GOODSTRAT.mp4",
+        "framerate": 29.97
+      }
+    ]
+  },
+  {
+    "description": "#7a #1500m comfy slow cycle in long ultra room if you fear death (I fear death)\nrough timings with my execution:\n+0.3 to fast cycle with 2 ultras at the end\n+0.1 to fast cycle with 1 ultra at the end\n-0.2 to regular slow cycle\n\n- fast entry\n- 3 upright dashes and climbjump to land in middle of platform\n- bufferable instant hyper on landing\n- downright around painting in bg\n- bufferable upright on landing\n- downright when dust bunny is out of the way\n  - you can just hover there for a long time and never die to this",
+    "rooms": [
+      "summit-a-d-05"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "yujene",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/987064568041836548",
+        "timestamp": "2022-06-16T18:42:11.794000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/987064567165235290/comfy.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a probably known, saves like 0.2 to normal strat",
+    "rooms": [
+      "ridge-a-d-09"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Geodoc",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/986898868400705616",
+        "timestamp": "2022-06-16T07:43:45.921000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/986898866991407124/Celeste_2022-06-16_15-30-48_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "disclaimer you need consistent frame 14 grounded ultras for this to be consistent but if you can do that i think this is a good setup\nhey did anyone ask for another setup? no? well here's one anyway, again can start buffering dashes as soon as the last heart goes in but this one's better bc doesn't depend on jump timing, i'm very consistent with this now (not sure how it compares to one larrito posted above but i would probably try both bc they're both real setups for the strat now)  (update all those dashes should be buffered not gonna rerecord now but yeah do that it works)\nsome numbers after tasing this fully: you have 5 frames to start the dash sequence that work with any frame 13/14 grounded ultra. if you're 2f out either side you have to do a frame 14 jump otherwise you get no cb. frame 13 grounded ultras give bad cb, frame 14 give good so you want to get your grounded ultra as good as possible",
+    "rooms": [
+      "core-b-01",
+      "core-b-a-00"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "exorax",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/985963792531881994",
+        "timestamp": "2022-06-13T17:48:06.461000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/985963791177089105/Celeste_2022-06-13_18-46-42_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a neutral wb, demohyper, downright, upright demo twice. if you do the wb on the leniency pixels and land too far right it doesn't work but it's easy to save (second attempt in the video). comparison is ground ultra updash hyper bhop",
+    "rooms": [
+      "city-a-9",
+      "city-a-9b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Zkad",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/985642253420740659",
+        "timestamp": "2022-06-12T20:30:25.563000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/985642252091142234/asd.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "variation of above strat without pixel lineup, probably faster with good pauses:\n\nupleft into transition, hold left, buffer upleft,\nrelease directionals during dash, buffer demo (no directionals held), reverse hyper on the frame you pass the little hole, rest same as above",
+    "rooms": [
+      "temple-a-b-04"
+    ],
+    "categories": [
+      "h",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "cake",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/984857195466338354",
+        "timestamp": "2022-06-10T16:30:53.161000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/984857194673623170/Replay_2022-06-10_18-26-08-00.02.17.550-00.02.26.433.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "variation of this strat that doesn't require y subpixel setup, maybe faster or easier idk\n\nreset your y and x subpixels, 1f hyper from the same spot as other strat, \npause buffer a 1f float jump 3-6 frames after the hyper (https://i.imgur.com/fhOsImS.png or later, 4f window)\nneutral jump here https://i.imgur.com/WdrOVzL.png, buffer rcb\n4f-6f window on the updash depending on the frame you inputted the float jump",
+    "rooms": [
+      "temple-a-b-04"
+    ],
+    "categories": [
+      "h",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "cake",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/984835376789196891",
+        "timestamp": "2022-06-10T15:04:11.183000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/984835377057652796/Replay_2022-06-10_16-49-04-00.02.17.550-00.02.26.833.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a reasonably consistent strat for start6. Downright dash is probably a few frame window but isn't that bad for ILs. Should be a few frames faster than going under with the demo",
+    "rooms": [
+      "ridge-a-a-03",
+      "ridge-a-a-04"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "sknoll",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/984237569145446420",
+        "timestamp": "2022-06-08T23:28:42.734000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/984237567836827658/2022-06-08_19-22-13_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3a towels first, a few frames faster than double super and also a lot easier imo, just don't buffer the super (0.2-0.3 faster than the any% strat on average)",
+    "rooms": [
+      "resort-a-13-a"
+    ],
+    "categories": [
+      "arb",
+      "h",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "E Brechler",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/983862656773554316",
+        "timestamp": "2022-06-07T22:38:56.659000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/983862655498473482/Towel_first_strat.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#ridge #4a #cliff_face #any% death/backup strat",
+    "rooms": [
+      "ridge-a-d-01"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "XMinty",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/983467652221636708",
+        "timestamp": "2022-06-06T20:29:20.235000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/983467651445702736/Celeste_2022-06-06_21-24-43-9751.mp4",
+        "framerate": 56.12
+      }
+    ]
+  },
+  {
+    "description": "#4a double super into upright cb I've been doing that apparently wasn't known; according to testing by Emily and Ebre should be a consistent 2.36-low 2.4x with reasonable optimization but Emily did it in 2.32",
+    "rooms": [
+      "ridge-a-a-06"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "SilverQuill",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/983448356196081764",
+        "timestamp": "2022-06-06T19:12:39.704000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/983448354631594025/Celeste_2022-06-06_20-03-29_Trim_1.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#8a #Into the Core \nClimbjumping right at the top of the first conveyor allows you to get another boosted climbjump on the wall. Makes the first wallbounce significantly easier and saves ~6 frames.",
+    "rooms": [
+      "core-a-b-07b"
+    ],
+    "categories": [
+      "clear",
+      "arb",
+      "fc",
+      "c",
+      "h"
+    ],
+    "sources": [
+      {
+        "author": "Larrito",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/982855991152484442",
+        "timestamp": "2022-06-05T03:58:48.872000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/982855989546061834/8a_Into_the_Core_r6_strat.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#8a pretty consistent strat for no ice skip (srry bad movmentation im bad on kboard, without controller rn)",
+    "rooms": [
+      "core-a-b-02"
+    ],
+    "categories": [
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "drim_cafe",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/982171284509171712",
+        "timestamp": "2022-06-03T06:38:02.087000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/982171283062132736/Celeste_2022-06-02_22-34-142.mp4",
+        "framerate": 29.98
+      }
+    ]
+  },
+  {
+    "description": "#8a\nA fast death cycle for this room. Downright soon but not immediately after hitting the first ice ball. Upright instead of right dash at the end is safer and barely loses any time.",
+    "rooms": [
+      "core-a-c-03"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Larrito",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/981683466519343124",
+        "timestamp": "2022-06-01T22:19:37.215000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/981683464644460624/8a_Hot_and_Cold_r4_death_strat_fast_.mp4",
+        "framerate": 60.01
+      }
+    ]
+  },
+  {
+    "description": "#farewell #9 #dts #determination saves 0.1-0.2, all strats start with hitting second last spring with upright demo\nstrat 1 (non-demo version in video):\n- bufferable downright dash\n  - dash within 6f/4f after hitting spring\n- buffer upright dash/demo\n- right dash, upright dash/demo to cornerkick\n\nstrat 2:\n- right dash over spikes\n  - timing window shown in image from left to right, comparing to strat 1 timing\n    +frames: directly over spikes\n    +0.2: center of madeline at left of block (ties strat 3)\n    +0.3: right of madeline at right of block\n- buffer downleft dash\n- right dash, upright demo to cornerkick\n\nstrat 3 (comparison):\n- downleft to spring\n- right dash, upright demo to cornerkick",
+    "rooms": [
+      "farewell-a-h-07"
+    ],
+    "categories": [
+      "dts"
+    ],
+    "sources": [
+      {
+        "author": "yujene",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/981339099032072232",
+        "timestamp": "2022-05-31T23:31:13.608000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/981339095756333096/windsprings.mp4",
+        "framerate": 60
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/981339096746197002/windsprings.png",
+        "framerate": 0
+      }
+    ]
+  },
+  {
+    "description": "#7a #1k if not doing the wallbounce strat in next room, exiting with two diags instead of diag into updash seems tied or maybe like 1 frame faster from testing, but waaaaaaay easier",
+    "rooms": [
+      "summit-a-c-02",
+      "summit-a-c-03"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "talia",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/981318978678947910",
+        "timestamp": "2022-05-31T22:11:16.542000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/981318976921538650/2022-05-31_16-08-41.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#2a not really a strat but this version of the dream hyper strat in intervention doesn't actually need a double jump on the ultra (so good backup or could be an easier strat too)",
+    "rooms": [
+      "site-a-12b",
+      "site-a-12"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "E Brechler",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/980143594654560377",
+        "timestamp": "2022-05-28T16:20:43.153000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/980143593207500810/Intervention_ending_with_single_jump.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#4a comfy little thing that loses a couple frames optimally but saves time on avg for me, just dont buffer the updash",
+    "rooms": [
+      "ridge-a-d-08"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Gwonkee💙",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/979590133378592790",
+        "timestamp": "2022-05-27T03:41:27.702000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/979590132925595718/cliff_face_thing.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3a haven't seen this posted here. saves a bit over 0,2. coyote in previous screen is required, but the strat still works with a surprisingly early coyote jump",
+    "rooms": [
+      "resort-a-roof00",
+      "resort-a-roof01"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "DrMadThrust",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/979356623770378350",
+        "timestamp": "2022-05-26T12:13:34.673000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/979356622004564089/second_roof_grounded_ultra.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a 2 frames slower than what's done in checkpoint gold, but easier entrance imo",
+    "rooms": [
+      "resort-a-06-c",
+      "resort-a-08-c"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "SaltyJerms",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977798526702600212",
+        "timestamp": "2022-05-22T05:02:15.384000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977798525377196042/2022-05-21_23-48-45_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#8a idk seems p consistent to me",
+    "rooms": [
+      "core-a-c-03"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "drim_cafe",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977735301696991242",
+        "timestamp": "2022-05-22T00:51:01.368000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977735299755024414/Celeste_2022-05-21_21-45-22_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a #cassette\nspeaking of city cassette strats, grab the zipper then just ungrab and regrab to keep dash. Sets up both bottom and top route. If this is known, let me know and I will delete.",
+    "rooms": [
+      "city-a-11"
+    ],
+    "categories": [
+      "c",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "simplex",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977413953292480522",
+        "timestamp": "2022-05-21T03:34:05.938000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977413951870615552/1acassette.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a #suite nice strat at the start of the last room if you're on the death cycle. Short hyper bhop on the roof tiles and then demohyper off of the second dustbunny platform. Then you can follow it up with your normal any% strats or go grab the berry. (Also please tell me if this is common knowledge and i'll delete it <:burgyline:895469885746974732>)",
+    "rooms": [
+      "resort-a-roof06"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "RedYoshi29",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977261883902025758",
+        "timestamp": "2022-05-20T17:29:49.770000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977261882694053948/2022-05-20_06-58-22_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a bottom route x2 much faster than normal strat but alot harder. for good cb jump just before/by lamppost on avg ~0.2 if you need to climb up its like 5f",
+    "rooms": [
+      "city-a-6c"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Boss219",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977239731609956403",
+        "timestamp": "2022-05-20T16:01:48.252000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977239730305515561/bot_route_op.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a looses .1 but its cool and consistent\ndont do the upright, and save the dash for early super on the pillar",
+    "rooms": [
+      "city-a-1"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "drim_cafe",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/977029146997833788",
+        "timestamp": "2022-05-20T02:05:00.968000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/977029144590295040/lol.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#4a \n1st clip: delayed climbjump on entry to keep max climb speed for longer, saves 2f optimally and makes it harder to dash too low\n\n2nd clip: same speed as above and might be easier to optimize, just buffer transition wb and buffer right dash, also you can tap right just before the final updash to save a frame sometimes",
+    "rooms": [
+      "ridge-a-c-05",
+      "ridge-a-c-06"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "cake",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/976833179681980446",
+        "timestamp": "2022-05-19T13:06:18.719000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/976833177031180298/climbjump.mp4",
+        "framerate": 60
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/976833177756786758/transition_wb.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a #start\n\nalternative strats to double updash -> transition wallbounce. they seem to lose a couple of frames but felt significantly less finicky to perform well and seem to consistently save at least -0.1 compared to not doing any of the double wallbounce strats\n\nleft wall version requires entering bubble with demo, right wall version does not but seems harder to get equal times with / saves less time?",
+    "rooms": [
+      "ridge-a-a-09"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Halo",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/976221298944536587",
+        "timestamp": "2022-05-17T20:34:54.983000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/976221298101485588/double_wallbounce_4a_start.mp4",
+        "framerate": 60.09
+      }
+    ]
+  },
+  {
+    "description": "saves .2 compared to going over the spinners",
+    "rooms": [
+      "summit-b-e-00"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Larrito",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/974755594319826964",
+        "timestamp": "2022-05-13T19:30:43.769000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/974755592491135056/7b_2000m_r1_demo.mp4",
+        "framerate": 60.01
+      }
+    ]
+  },
+  {
+    "description": "#4a #true ending #all chapters funny 4a fast heart, saves .1-.15 on avg for me - 1st one is for comparison (movement isnt perfect ik)",
+    "rooms": [
+      "ridge-a-b-sec"
+    ],
+    "categories": [
+      "h"
+    ],
+    "sources": [
+      {
+        "author": "Verdal",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/974317523812122624",
+        "timestamp": "2022-05-12T14:29:59.621000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/974317521412964372/funny_4a_fast_heart.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#6a very easy and fast backup for this room on death. First dash is a downright.",
+    "rooms": [
+      "reflection-a-18b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Gwonkee💙",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/973383056389984276",
+        "timestamp": "2022-05-10T00:36:45.226000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/973383055362383892/6a_bumper_backup.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#4a reverse hyper to hit the wall and 1f hyper sets up falling cb, saves ~.2 to normal strat",
+    "rooms": [
+      "ridge-a-b-08b"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "cake",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/973378226405650512",
+        "timestamp": "2022-05-10T00:17:33.668000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/973378224849555476/shrine-4.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#6a guaranteed setup for 3f lakeskip updash window\nbuffer the first 5 dashes, wait for madeline to grab the wall, fullheight climbjump and let madeline grab wall again, then jump right and hold jump and right until updash. updash on any of the three frames shown in thread then hold left and buffer wallbounce",
+    "rooms": [
+      "reflection-a-00"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/972795681926447154",
+        "timestamp": "2022-05-08T09:42:44.241000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/972795680915591238/3f_lakeskip_setup.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "and a slightly less bad one, going neutral to climb to seeker bop seems to work",
+    "rooms": [
+      "temple-b-c-02"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Gwonkee💙",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/972313131999182858",
+        "timestamp": "2022-05-07T01:45:15.373000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/972313131151949824/missed_cb_backup_2.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#7a #1500m #cassette good all hearts/all cassettes fast cycle setup",
+    "rooms": [
+      "summit-a-d-03b",
+      "summit-a-d-03"
+    ],
+    "categories": [
+      "c"
+    ],
+    "sources": [
+      {
+        "author": "talia",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/971793861393404014",
+        "timestamp": "2022-05-05T15:21:51.613000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/971793859501760522/7a_15kahfastcycle.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
     "description": "#6a heart room entry. Very easy, optimally same speed + a couple frames as strat in 6afc WR.\nfull height transition hyper holding jump, left, and grab so you grab the wall, then immediately downleft and buffer both jump and another downleft for the ultra",
     "rooms": [
       "reflection-a-04b"
@@ -11193,6 +12106,999 @@
       },
       {
         "url": "https://cdn.discordapp.com/attachments/617809769322774533/952804486156550154/Celeste_5a_old_coin_route.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "interesting idea to set up grabbing the top of the core block. screen transition to the left, don't buffer the up right demo, you need to give madeline time to move to the left a bit but she will do that on her own, you can be neutral until the diag demo. once you do the demo hold right and you should get the corner kick. this saves like 2s or somthing dumb over the vanilla strat.",
+    "rooms": [
+      "core-b-a-00",
+      "core-b-a-01"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/952362303762870302",
+        "timestamp": "2022-03-13T00:27:47.253000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/952362302135484456/Celeste_2022-03-12_16-17-52_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3a maybe useful for some: if you pausebuffer a 3f uptap and buffer a climbjump out of the pause you get the 1.5px window which is a 8f demo window at peak height",
+    "rooms": [
+      "resort-a-04-d"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Tiyo",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/951521832933163008",
+        "timestamp": "2022-03-10T16:48:03.392000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/951521831817461780/3apausebufferuptap.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a backup for the non demo route in this room if you accidently get the cb (honestly much more useful than I first thought)",
+    "rooms": [
+      "resort-a-02-d"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "E Brechler",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/950424210004652122",
+        "timestamp": "2022-03-07T16:06:29.693000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/950424207978807326/Shaft_last_room_backup.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#2a #intervention safer (no worries about super bonking+no funny climbjump on moving block) but slightly slower way of doing ultra into downdash exit - continue holding downright after ultra to slide, once hitting the coin immediately dash left and buffer extended super, keep holding jump and left until the downdash (works with any other non-ultra strat also if clean enough)",
+    "rooms": [
+      "site-a-9"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "palafrost",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/949476956976586793",
+        "timestamp": "2022-03-05T01:22:26.972000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/949476955949006888/Celeste_20220304181355.mp4",
+        "framerate": 29.97
+      }
+    ]
+  },
+  {
+    "description": "so after a lot of testing I have come to the following conclusion as to the routing of 2A FC and ARB route 3 seems to be optimal by a few frames in both categories. this gap widens a bit in FC if not doing the cycle skip because it allows you to collect 3 berries for free. this also risks 3 berries doing the cycle skip or loses the time to collect them before the tape room making it no longer worth it. taking this all into consideration I believe route 3 is best for IL's in both categories. full game FC: route 1 is best full game doing the cycle skip, route 3 is best full game not doing the cycle skip, full game ARB: I believe route 3 should be best here but in the longer category honestly just go with the route that feels better.  edit: route 2 is viable and loses very little time, it just does not seem to be optimal.",
+    "rooms": [
+      "site-a-d0",
+      "site-a-d1",
+      "site-a-d4",
+      "site-a-d5",
+      "site-a-d2",
+      "site-a-d6",
+      "site-a-d9"
+    ],
+    "categories": [
+      "clear",
+      "arb",
+      "c",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/949199699120906290",
+        "timestamp": "2022-03-04T07:00:43.548000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/949199687888556042/2A_FC_route_2_41.616.mp4",
+        "framerate": 30
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/949199689788588132/2A_FC_route3_40.970.mp4",
+        "framerate": 30
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/949199692594573332/2A_FC_route_1_41.191.mp4",
+        "framerate": 30
+      },
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/949199694054174720/2A_FC_routing_spreadsheet.PNG",
+        "framerate": 0
+      }
+    ]
+  },
+  {
+    "description": "#7A #2000m most cursed demo ever, saves .1 compared to top route strats i tested but someone better please lab this",
+    "rooms": [
+      "summit-a-e-06"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "burntflightlessbird",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/948878627498504252",
+        "timestamp": "2022-03-03T09:44:54.108000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/948878626563162182/stupidest_demo_ever.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a probably known but I didn't know about it so wanted to document. At the beginning of start 3, you want to left cb but hold neutral by the time you clear the wall, not keep holding left. This gets your horizontal subpixels far enough right to save a frame at the end of the room; if you hold left the whole time on the cb fastest you can get is 635",
+    "rooms": [
+      "city-a-3"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "6.28",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/946897980819136512",
+        "timestamp": "2022-02-25T22:34:31.141000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/946897979971895326/game_is_good.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#7a think it was documented when fast key became a thing but mentioning again, 2 dashes is slower than one for key door by 1 frame (maybe 2, key cycle dependent) <:destareline:935372132102311986>",
+    "rooms": [
+      "summit-a-f-05"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "amberlovesarchie",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/946837848097689621",
+        "timestamp": "2022-02-25T18:35:34.383000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/946837846885556265/vioue3_1_1.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a #start don't know if this is known but it can save ~4f over the super into wavedash strat",
+    "rooms": [
+      "resort-a-07-b",
+      "resort-a-06-b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Meikaina Kibô",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/946765248701026374",
+        "timestamp": "2022-02-25T13:47:05.338000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/946765247321079911/3A_triple_demohyper_strat.mov",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a #start \nHyper into transition into gultra/wavedash, saves ~0.1 over two small hypers",
+    "rooms": [
+      "ridge-a-a-04",
+      "ridge-a-a-05"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Katriii",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/946740870483443753",
+        "timestamp": "2022-02-25T12:10:13.118000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/946740869590040596/Celeste_02-25-2022_13-9-10-9.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a alt setup for reverse super to not get locked into a reverse hyper from fastfalling. do a small (but not min height) uncrouched jump on entry to keep your dash, then use the downdash to cancel the fastfall, allowing you to buffer the left dash for reverse super",
+    "rooms": [
+      "resort-a-13-a"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "DrMadThrust",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/945296993683636274",
+        "timestamp": "2022-02-21T12:32:46.063000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/945296992169496686/3a_13-a_anti-crouchlock.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell #dts #singular backup in singular 3 for either dying or (more likely tbh) failing to transition hyper into the room. buffer downright out of right dash and the first upright should be a demo. as far as i can tell you can't skip the climb jump at the end. saves ~1.3 over reentering. upright demo cue to follow in thread",
+    "rooms": [
+      "farewell-a-a-02"
+    ],
+    "categories": [
+      "dts"
+    ],
+    "sources": [
+      {
+        "author": "Sleepy__Dan__",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/944394525227495485",
+        "timestamp": "2022-02-19T00:46:40.816000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/944394522765455400/9_singular_3_backup.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell moon berry room exit, saves 0.25 (old strat shown first)\npass through the jumpthrough on the left and wallkick just before madeline's feet are aligned with the platform. wallkicking too high loses time because the jelly will die too early and you'll fall a little before reaching the wall, wallkicking early is pretty much fine though\n\nThis saves time because the jumpthrough pulls madeline up through it while she's overlapping it, and wallkicking gives 105 upward speed rather than the 32 you get from just holding up",
+    "rooms": [
+      "farewell-a-j-19"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943862125313536040",
+        "timestamp": "2022-02-17T13:31:06.785000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943862122868269156/moon_berry_strat_5.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell moon berry room, 0.8\nthrow the jelly from low and right enough to then get two jellyvators before the final section instead of only one like normal\n*something I found out later is if you're holding up while you throw the jelly, madeline will have a bit more of an upward boost affecting her after the throw, making this a little bit easier since she floats a bit more",
+    "rooms": [
+      "farewell-a-j-19"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943330836168720384",
+        "timestamp": "2022-02-16T02:19:57.582000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943330834855907338/moon_berry_strat_4.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell another moon berry room optimization, 0.5 over no jellyvator, 0.3 over jellyvator in hiken's moon berry run\ndrop jelly as far right as you can to still land on the platform and jellyvator on the right side of the jelly to make sure you don't get owned on the electricity",
+    "rooms": [
+      "farewell-a-j-19"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943300390252867625",
+        "timestamp": "2022-02-16T00:18:58.710000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943300388948434964/moon_berry_strat_3.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#7a #gem checked top 20 ah and saw this exactly once, most consistent strat for me by a longshot (less scary than it looks i promise <:widegladeline2:903066740718706749>) - timing varied from breaking even to losing .1-2, worth timing for yourself",
+    "rooms": [
+      "summit-a-b-02d"
+    ],
+    "categories": [
+      "h",
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "Vapo",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943195685858213999",
+        "timestamp": "2022-02-15T17:22:55.237000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943195684637646888/gem2.mp4",
+        "framerate": 29.97
+      }
+    ]
+  },
+  {
+    "description": "#farewell another moon berry optimization, buffered diag demo regrab for the jelly instead of two jellyvators here is saving me 0.4 optimally but 0.6-0.8 on average because the old two jellyvators strat is hard to optimize",
+    "rooms": [
+      "farewell-a-j-19"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943164823280181292",
+        "timestamp": "2022-02-15T15:20:17.025000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943164822302916628/moon_berry_strat_2.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell small moon berry room optimization, ~0.4 avg over landing then setting up for the jellyvator. Wallkick high off left wall and throw jelly at peak",
+    "rooms": [
+      "farewell-a-j-19"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/943163015057006603",
+        "timestamp": "2022-02-15T15:13:05.911000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/943163013979050065/moon_berry_strat_1.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#7a diagdemo full height cornerkick setsup the next jump. I think it saves 4f optimally and maybe a bit more on avg over the second strat in the video which is the fastest alternative i know of",
+    "rooms": [
+      "summit-a-e-06"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Roby",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/942137410630852608",
+        "timestamp": "2022-02-12T19:17:42.761000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/942137409552941146/ass3.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#7a you can do this block boosted neutral with a dashjump, my best time is 2f faster than the hyper bhop but can't figure out why this would be faster, i'm not entirely sure if it is. might be easier though since you can make the dashjump neutral aswell. good cue is to start at the middle of the block",
+    "rooms": [
+      "summit-a-e-07"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Zkad",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/941923521767026729",
+        "timestamp": "2022-02-12T05:07:47.682000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/941923519208505394/Replay_2022-02-12_02-01-04.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a I'm getting this to save a few frames over the wavedash upright cb exit, pretty sure I'm just bad at that one though lmao\n(apparently this loses ~.2)\nI do find this much easier tho, could be a nice fastish safe strat. hold grab for safety when you do the demohyper so you'll cb if you're too low",
+    "rooms": [
+      "ridge-a-a-07",
+      "ridge-a-a-08"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "joho",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/940786222660456468",
+        "timestamp": "2022-02-09T01:48:34.445000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/940786219732840498/archie_exit.mp4",
+        "framerate": 60.09
+      }
+    ]
+  },
+  {
+    "description": "#7a buffer downdash then buffered jump on this cloud makes the landing easier to optimize",
+    "rooms": [
+      "summit-a-flag-9",
+      "summit-a-flag-8"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Verdal",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/939459921420881930",
+        "timestamp": "2022-02-05T09:58:19.588000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/939459918354841622/flag_7_downdash.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#4a version of last room of shrine that doesnt require cpop or ultra, most likely slower but more consistent\nif this has been documented i could probably just delete this but i dont believe so",
+    "rooms": [
+      "ridge-a-b-08"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Pausebuffer Plixona",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/937083981432762368",
+        "timestamp": "2022-01-29T20:37:11.352000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/937083980027666442/2022-01-29_15-34-45.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#1a new chasm boost setup ✨ (i think)\nneutral super and neutral jump like the normal one then just wait on the block and demo up\ncant hold up for more than 1f before the demo, but either a redirect or a demo + up button should work well\nimage contains all the possible combinations of wb jump timings and cb jump lengths that will work with each setup\nhttps://gfycat.com/feistyeminentacornbarnacle",
+    "rooms": [
+      "city-a-9",
+      "city-a-9b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "linn",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/937044430861504563",
+        "timestamp": "2022-01-29T18:00:01.761000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/937044431020900482/unknown.png",
+        "framerate": 0
+      },
+      {
+        "url": "https://media.celestespeed.run/gfycat/feistyeminentacornbarnacle.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#3a i don't really see anyone doing this strat but it looks faster than the super into wavedash strat right ?",
+    "rooms": [
+      "resort-a-07-b",
+      "resort-a-06-b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Meikaina Kibô",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/936612103010287628",
+        "timestamp": "2022-01-28T13:22:06.769000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/936612101370306591/3A_double_demohyper_strat.mov",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#7A #100% found this strat for getting the berry, dont know if it is known. the pixel set up is 2 pixels below where you will grab if you walk accross and grab the wall, there should be 1 light pizel above madeline's hand. from there just fall down holding left and then buffer an up dash in the screen below, transition WB while holding left, and win.",
+    "rooms": [
+      "summit-a-f-07"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/936414140036177960",
+        "timestamp": "2022-01-28T00:15:28.718000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/936414138647846982/Celeste_2022-01-27_19-06-49_Trim_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3A #any death cycle strat for the first dustbunny screen",
+    "rooms": [
+      "resort-a-00-a"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Kazoeru",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/936325338697433158",
+        "timestamp": "2022-01-27T18:22:36.829000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/936325337799868558/death_cycle_bad_screen.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell final room fish chimney ending yoinked from TAS, saves 0.1 over upright regrab + easier to optimize + feels less risky so imo just the better ending. Can be incorporated without the first fish super to still save 0.5 over only floating up",
+    "rooms": [
+      "farewell-a-j-16"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/936012497222266900",
+        "timestamp": "2022-01-26T21:39:29.609000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/936012495687122985/better_fish_chimney.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell #nodts event horizon g-02 room exit from the tas, saves .1-.15 over downright->updash into dreamblock and the wb exit saves a little into start of next room. could also upright to similar effect",
+    "rooms": [
+      "farewell-a-g-02"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/935976175380095047",
+        "timestamp": "2022-01-26T19:15:09.807000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/935976173886918728/EH_g-02_tas_ending.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a #any got this to save up to .2 optimally over any other method I could think of. reverse hyper bhop off of first cloud, super off second",
+    "rooms": [
+      "ridge-a-a-08"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Plex",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/935811403363803196",
+        "timestamp": "2022-01-26T08:20:25.097000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/935811397135237130/Celeste_2022-01-26_02-18-13.mp4",
+        "framerate": 29.99
+      }
+    ]
+  },
+  {
+    "description": "#1a incredibly easy room 1 strat that only loses ~3f to the cboost+upright strat. been around for a while but people may not know about it so i post",
+    "rooms": [
+      "city-a-1"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Lmjacks",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/935747868403322970",
+        "timestamp": "2022-01-26T04:07:57.182000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/935747867140841492/2022-01-25_21-49-36.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#2a hey this can go for 3.8~3.7 and i find myself pretty consistent at it more than the normal bhop cornerboost, and by the way you can also de-optimise the 2nd gultra so you get your dash back and so you can dash earlier on the 2nd platform but a bit tough to get it faster than this one",
+    "rooms": [
+      "site-a-start",
+      "site-a-0",
+      "site-a-1"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Meikaina Kibô",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/935529929188196432",
+        "timestamp": "2022-01-25T13:41:56.424000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/935529927451758632/2A_start_Gultras.mov",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#4a ~.2, ~.1 if you break the block instead of wallkicking off of it",
+    "rooms": [
+      "ridge-a-a-03"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Shin",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/934709948775026718",
+        "timestamp": "2022-01-23T07:23:37.859000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/934709947235704862/Nations_2022.01.23_-_01.10.57.13.DVR_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#Farewell #9 stubbornness room 6 setup for the cycle, if you enter the room quickly from the previous room, you can get to the first red bubble as fast as possible and fastbubble, then dash up the same time the pink block disappears and fastfall to the next bubble. Feels pretty lenient when reacting to the disappearance of the pink block.\nShowed the rooms before and after to show the cycle this is relevant for",
+    "rooms": [
+      "farewell-a-i-03",
+      "farewell-a-i-04"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/932934535803445279",
+        "timestamp": "2022-01-18T09:48:46.421000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/932934534595477584/ST-6_cycle_setup.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#farewell #dts not sure if known, getting a good ultra can be hard, timesave varies, anywhere from breaking even to saving over 2s 🥴",
+    "rooms": [
+      "farewell-a-c-alt-00"
+    ],
+    "categories": [
+      "dts"
+    ],
+    "sources": [
+      {
+        "author": "Comet",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/932520950308692018",
+        "timestamp": "2022-01-17T06:25:19.955000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/932520949075550208/2022-01-17_01-17-48_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#1a \nnot sure if known, but feels easier than the normal hyper bhop cornerkick/gultra entry. loses 5f optimally but on average its feels like 2-3f\nright dash into wavedash bhop (do the wavedash jump around when madeline is infront of the buckets)\nfirst 2 attempts are the old strat, other two are the new one",
+    "rooms": [
+      "city-a-9",
+      "city-a-9b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "Cursed",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/932331941968109628",
+        "timestamp": "2022-01-16T17:54:16.855000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/932331940504305724/Celeste_2022-01-16_11-44-14_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell #100% same strat but with a better ending.",
+    "rooms": [
+      "farewell-a-j-16"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931665976192282654",
+        "timestamp": "2022-01-14T21:47:58.241000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931665973633749094/Celeste_2022-01-14_16-40-51_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell #100% just a backup in case you accidently let the jelly die since surely nobody here would be cruel enough to murder the jelly on purpose. you dont need to do the scary looking wall kick near the end, it will be pretty fast even without that.",
+    "rooms": [
+      "farewell-a-j-16"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931663988247367750",
+        "timestamp": "2022-01-14T21:40:04.278000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931663986263482409/Celeste_2022-01-14_16-18-59_Trim_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell stubbornness room 2, 100% consistent setup without any need for weird timing to clear the room. Grab the green block **while holding jump**, continue holding jump, grab, and upright to climb onto the spring, then buffer a dash into the spring. Impossible to miss the spring block since holding jump gives half gravity briefly, impossible to die by being too quick because the buffered dash back into the spring delays the cycle enough",
+    "rooms": [
+      "farewell-a-i-00b"
+    ],
+    "categories": [
+      "clear"
+    ],
+    "sources": [
+      {
+        "author": "profnyan",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931503106368344114",
+        "timestamp": "2022-01-14T11:00:47.049000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931503105168769025/stubbornness_2_100_consistent_setup.mp4",
+        "framerate": 60
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell #100% found a new jelly preservation that saves over a second. make sure to jump after doing the down dash on the power block so you can make it to the moon block with a left dash, and throw the jelly to the left as late as possible while still being able to land on the moon block. This way of hitting the power box is also good for any other jelly preservation strat since you can make it back to the jelly much faster.  the right dash to do the first hit on the power block is also fast even if not going for the moon berry.",
+    "rooms": [
+      "farewell-a-j-16"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931342530539307050",
+        "timestamp": "2022-01-14T00:22:42.788000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931342528781885450/Celeste_2022-01-13_19-01-33_Trim_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3a .2 bad",
+    "rooms": [
+      "resort-a-07-b"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Sora",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931049073585299506",
+        "timestamp": "2022-01-13T04:56:37.198000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931049072830332928/Replay_2022-01-12_23-54-21_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#3a .2 demo when madeline's feet reaches the bottom of the windows\nslow falling still saves .1",
+    "rooms": [
+      "resort-a-08-c"
+    ],
+    "categories": [
+      "clear",
+      "arb"
+    ],
+    "sources": [
+      {
+        "author": "Sora",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/931042105168638013",
+        "timestamp": "2022-01-13T04:28:55.798000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/931042104568856576/Replay_2022-01-12_23-26-43_Trim.mp4",
+        "framerate": 30
+      }
+    ]
+  },
+  {
+    "description": "#9 #farewell so I made a post about this strat once before, although at that point it was very theoretical and I was unsure of a lot and so I feel it is worth making one more at the tail end of all of the testing I have done to explain my findings as to what the fastest way to do the trick is and also how it compares to the standard way of doing the room. as best as I can tell the strat saves almost 7s over reasonable strats. This may go up slightly as more is learned but I do not think it will go up much.",
+    "rooms": [
+      "farewell-a-j-16"
+    ],
+    "categories": [
+      "fc"
+    ],
+    "sources": [
+      {
+        "author": "maridon",
+        "url": "discord://discord.com/channels/403698615446536203/617809769322774533/928154215002546197",
+        "timestamp": "2022-01-05T05:13:29.128000+00:00"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://cdn.discordapp.com/attachments/617809769322774533/928154211324141619/Celeste_2022-01-04_23-16-01_Trim_Trim.mp4",
         "framerate": 30
       }
     ]
