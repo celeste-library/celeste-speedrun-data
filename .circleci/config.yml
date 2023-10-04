@@ -1,0 +1,14 @@
+version: 2.1
+
+setup: true
+
+orbs:
+  path-filtering: circleci/path-filtering@1.0.0
+
+workflows:
+  generate-config:
+    jobs:
+      - path-filtering/filter:
+          mapping: |
+            routes.json json-change true
+            scraped-strats.json json-change true
