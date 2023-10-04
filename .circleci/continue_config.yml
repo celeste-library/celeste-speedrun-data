@@ -1,0 +1,38 @@
+version: 2.1
+
+parameters:
+  json-change:
+    type: boolean
+    default: false
+
+workflows:
+  deploy:
+    when: << pipeline.parameters.json-change >>
+    jobs:
+      - deploy_changes:
+          context:
+            - deploy
+          filters:
+            branches:
+              only: main
+
+jobs:
+  deploy_changes:
+    docker:
+      - image: cimg/base:current
+    steps:
+      - checkout:
+          path: ~/celeste-speedrun-data
+      - run:
+          name: Set up SSH for deploy
+          command: |
+            mkdir -p ~/.ssh
+            echo "$DEPLOY_HOST $DEPLOY_FINGERPRINT" >> ~/.ssh/known_hosts
+      - when:
+          condition: << pipeline.parameters.json-change >>
+          steps:
+            - run:
+                name: Deploy JSON
+                command: |
+                  ssh $DEPLOY_USER@$DEPLOY_HOST "mkdir -p /home/$DEPLOY_USER/data/"
+                  scp -r ~/celeste-speedrun-data/routes.json ~/celeste-speedrun-data/scraped-strats.json $DEPLOY_USER@$DEPLOY_HOST:/home/$DEPLOY_USER/data/
