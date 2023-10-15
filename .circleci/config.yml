@@ -10,5 +10,6 @@ workflows:
     jobs:
       - path-filtering/filter:
           mapping: |
+            metadata.json json-change true
             routes.json json-change true
             scraped-strats.json json-change true

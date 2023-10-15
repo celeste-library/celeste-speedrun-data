@@ -35,4 +35,4 @@ jobs:
                 name: Deploy JSON
                 command: |
                   ssh $DEPLOY_USER@$DEPLOY_HOST "mkdir -p /home/$DEPLOY_USER/data/"
-                  scp -r ~/celeste-speedrun-data/routes.json ~/celeste-speedrun-data/scraped-strats.json $DEPLOY_USER@$DEPLOY_HOST:/home/$DEPLOY_USER/data/
+                  scp -r ~/celeste-speedrun-data/*.json $DEPLOY_USER@$DEPLOY_HOST:/home/$DEPLOY_USER/data/
